@@ -5,7 +5,7 @@
 
 El sistema presenta la inteligencia artificial de las piezas de los gatos, de manera que un 100% de las partidas son ganadas por los gatos.
 Para ejecutar el programa se necesita la version [6.4](http://www.clipsrules.net/CLIPS64.html) de  clips.
-Para iniciar el juego por primera vez escriba carge el archivo .clp en la consola de clips luego escriba el comando *(jugar)*.
+Para iniciar el juego por primera vez cargue el archivo .clp en la consola de clips luego escriba el comando *(jugar)*.
 <p align="center">
   <img width="560" height="205" src="https://raw.github.com/geovannyzp/SistemaExperto-Raton_y_Gatos/master/ReadmeImgs/loadgame.png">
 </p>
